@@ -2,7 +2,7 @@
 
 Files:
 
-	README.txt: Contains description of protocols and instructions on running the code.
+	README.md: Contains description of protocols and instructions on running the code.
 
 	Folder TCP: contains the TCP implementations
 	TCP/letmein-tcp.py: Contains the client side implementation of the TCP protocol.
